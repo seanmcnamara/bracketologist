@@ -106,11 +106,11 @@ east = ["Ohio St.", "North Carolina", "Syracuse", "West Virginia", "Kentucky", "
 #  (3) Purdue Boilermakers vs. (14) Saint Peter’s Peacocks
 #  (6) Georgetown Hoyas vs. (11) USC Trojans/Virginia Commonwealth University Rams
 #
-#  (7) Texas A&M Aggies vs. (10) Purdue Boilermakers
+#  (7) Texas A&M Aggies vs. (10) Florida St.
 #  (2) Notre Dame Fighting Irish vs. (15) Akron Zips
 
 southwest = ["Kansas", "Notre Dame", "Purdue", "Louisville", "Vanderbilt", "Georgetown", "Texas A&M",
-  "Nevada Las Vegas", "Illinois", "Purdue", reduce(["Southern California", "Virginia Commonwealth"])[0], 
+  "Nevada Las Vegas", "Illinois", "Floridia St.", reduce(["Southern California", "Virginia Commonwealth"])[0], 
   "Richmond", "Morehead St.", "St. Peter's", "Akron", "Boston University"]
 
 # SOUTHEAST
