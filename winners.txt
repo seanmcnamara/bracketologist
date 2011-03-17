@@ -1,0 +1,104 @@
+ROUND 1
+Ohio St.
+North Carolina
+Syracuse
+West Virginia
+Kentucky
+Xavier
+Georgia
+George Mason
+
+ROUND 2
+Ohio St.
+North Carolina
+Syracuse
+Kentucky
+
+ROUND 3
+Ohio St.
+Syracuse
+
+ROUND 4
+Ohio St.
+
+ROUND 1
+Duke
+San Diego St.
+Connecticut
+Arizona
+Texas
+Cincinnati
+Temple
+Tennessee
+
+ROUND 2
+Duke
+Temple
+Cincinnati
+Texas
+
+ROUND 3
+Duke
+Cincinnati
+
+ROUND 4
+Duke
+
+ROUND 1
+Pittsburgh
+Florida
+Brigham Young
+Wisconsin
+Utah St.
+Gonzaga
+UCLA
+Old Dominion
+
+ROUND 2
+Pittsburgh
+Florida
+Brigham Young
+Wisconsin
+
+ROUND 3
+Pittsburgh
+Florida
+
+ROUND 4
+Florida
+
+ROUND 1
+Kansas
+Notre Dame
+Purdue
+Louisville
+Richmond
+Georgetown
+Purdue
+Illinois
+
+ROUND 2
+Kansas
+Notre Dame
+Purdue
+Louisville
+
+ROUND 3
+Kansas
+Purdue
+
+ROUND 4
+Purdue
+
+FINAL FOUR
+Ohio St.
+Duke
+Florida
+Purdue
+
+FINALISTS
+Ohio St.
+Florida
+
+NATIONAL CHAMPION
+Ohio St.
